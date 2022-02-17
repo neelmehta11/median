@@ -308,9 +308,7 @@ padding-bottom: 39px;
   #navigation{
     display: none;
   }
- body{
-  background-color: aqua;
-}
+
 #sidemenu{ 
   display: inline;
   transition: 0.5s;
